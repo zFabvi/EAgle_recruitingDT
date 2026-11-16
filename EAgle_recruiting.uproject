@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004FB08-08DF-40D1-5A97-693C807B4517}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EAgle_recruiting",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
